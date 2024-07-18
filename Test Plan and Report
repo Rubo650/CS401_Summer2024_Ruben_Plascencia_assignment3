@@ -1,3 +1,15 @@
 - Test Case #1: Concatenating two strings
 Description: Adding together two strings
-- Result: 
+Result: Both strings concatenated together
+
+- Test Case #2: Reverse a string
+Description: Revsering a string's order
+Result: The string's order was reversed, however, only one of the strings "ruben" reversed, "plascencia" did not
+
+- Test Case #3: Uppercasing a string
+Description: Transforms a string's letters to be completely uppercase
+Result: It expected "plascencia" as an input, but the result was "RUBEN" as the output
+
+- Test Case #4: Trimming whitespace
+Description: To trim the whitespace around a given string
+Result: Trimmed down the whitespace and trailing around the string and displayed a normal string output
